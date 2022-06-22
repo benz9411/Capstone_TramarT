@@ -14,3 +14,15 @@
 
 
 [gitlab](https://sw-git.chosun.ac.kr/b-project/20220325_)
+
+
+###실행 장면![ㅁㅁㅁ](https://user-images.githubusercontent.com/94780831/175013955-615038bc-d3bc-4cbb-afd7-03ce9b2df381.PNG)
+
+#tensorflow를 이용한 과일 이미지 분류
+## 작업 후 tensorflow lite 변환을 통한 App 이식성 추가
+
+사용 데이터 
+![AI HUB](https://user-images.githubusercontent.com/94780831/175014448-8fb981bf-8138-465b-88f2-c32bbb9a60ee.png)
+AI HUB의 과일 품질 이미지 사용
+
+관련 CODE는 CODE directory의 쥬피터 파일 
