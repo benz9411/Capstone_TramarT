@@ -12,8 +12,10 @@
 |이준수|프론트,api|Flutter를 이용한 프론트,실기간 가격 분석 api|
 |문희찬|프론트|Flutter를 이용한 프론트와 기타 기능|
 
+#### 확인
+-[app 다운로드](https://chosunkr-my.sharepoint.com/:u:/g/personal/ggk20174258_chosun_kr/ETRnnKPVT8hAkbhNDV5vMq8BXmn4K0e2uWn9kDM4FmS5Zw?e=BfHlpx)-
 
-[gitlab](https://sw-git.chosun.ac.kr/b-project/20220325_)
+-[gitlab](https://sw-git.chosun.ac.kr/b-project/20220325_)
 
 
 ### 실행 장면
