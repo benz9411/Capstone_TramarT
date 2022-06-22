@@ -1,3 +1,8 @@
+# 이 작업은 사과 이미지를 분석해 품질 등급을 알려주는 코드입니다.
+
+
+
+
 
 ### 1. Flutter의 camera x 를 이용해 카메라 진입
 ![1](https://user-images.githubusercontent.com/94780831/175015380-e5bea0b3-f95b-4a5b-ae8e-f775be826363.PNG)
