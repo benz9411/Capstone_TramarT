@@ -31,3 +31,7 @@
 AI HUB의 과일 품질 이미지 사용
 
 **관련 CODE는 CODE directory의 쥬피터 파일 **
+
+## 수상기록
+
+KAMIS 활용 사례 공모전 3위
