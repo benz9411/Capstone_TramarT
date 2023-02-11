@@ -20,3 +20,6 @@
 ### tensorflow 에서 직접 제작한 모델을 tflite(tensorflow lite) 모델로 변환 후 flutter 앱에 이식하는 작업이 필요함
 - label 값 .txt 파일 및 라벨링 작업이 필요하다.
 - 양자화를 통해 정확도의 극 소량 손해를 보지만 용량 감소를 통해 App 더 적합해진다.
+
+(kaggle) https://www.kaggle.com/datasets/chrisfilo/fruit-recognition
+(dacon) https://dacon.io/competitions/official/235870/data
